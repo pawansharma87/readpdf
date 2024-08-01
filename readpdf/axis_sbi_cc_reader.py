@@ -120,7 +120,7 @@ def extract_text_from_unlocked_pdf(pdf_path):
 def main():
     output_directory = os.path.join(pdf_directory, 'output')
     os.makedirs(output_directory, exist_ok=True)
-    passwords = ["XXX", "XX", "XXX", "XXX"]
+    passwords = ["270819870503", "270819877014", "PAWA2708", "BITT0106"]
 
     all_transactions = []
 

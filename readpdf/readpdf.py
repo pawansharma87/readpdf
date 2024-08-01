@@ -25,7 +25,7 @@ def extract_text_from_unlocked_pdf(pdf_path):
 # Provide the path to your password-protected PDF and the password
 input_pdf_path = r"C:\Users\aspsh\OneDrive\Desktop\cc\sbi\bpcl\9654519415575153_16012024.pdf"
 output_pdf_path = r"C:\Users\aspsh\OneDrive\Desktop\cc\unlocked_airtel_June24.pdf"
-password = "270819870503"
+password = "XXXX"
 
 # Unlock the PDF
 unlock_pdf(input_pdf_path, output_pdf_path, password)

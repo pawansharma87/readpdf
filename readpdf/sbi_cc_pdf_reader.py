@@ -110,7 +110,7 @@ def extract_text_from_unlocked_pdf(pdf_path, credit_card_name):
 
 # Specify the directory containing the PDF files and password
 pdf_directory = r"C:\Users\aspsh\OneDrive\Desktop\cc\sbi\bpcl"
-password = "270819870503"
+password = "XXXXX"
 
 # Aggregate all transactions
 all_transactions = []

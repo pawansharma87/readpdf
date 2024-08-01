@@ -122,8 +122,8 @@ pdf_directory = r"C:\Users\aspsh\OneDrive\Desktop\cc\axis\select"
 output_directory = os.path.join(pdf_directory, 'output')
 # Ensure the directory exists
 os.makedirs(output_directory, exist_ok=True)
-#password = ["270819870503","270819877014","PAWA2708"]
-password = ["PAWA2708"]
+#password = []
+password = ["XXXX"]
 
 # Aggregate all transactions
 all_transactions = []
