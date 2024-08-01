@@ -1,0 +1,773 @@
+2024-08-01 00:22:58,689:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07042024.pdf: File has not been decrypted
+2024-08-01 00:22:58,933:WARNING:Multiple definitions in dictionary at byte 0xb1bc9 for key /DA
+2024-08-01 00:22:59,402:INFO:Matched keyword: 'TAX' in description: 'ANNUAL FEE CHARGED (EXCL TAX 179.82)' under category: Tax
+2024-08-01 00:22:59,402:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:22:59,402:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'NEW HORIZON' in description: 'NEW HORIZON INTERNATIO BANGALORE' under category: Education
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'MYNTRA' in description: 'Myntra Designs Pvt Ltd BANGALORE' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'NOBROKER' in description: 'NOBROKER TECHNOLOGI BENGALURU IN (Pay in EMIs)' under category: Home Furnishing
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR MUMBAI' under category: Entertainment
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:22:59,403:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:23:00,933:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07052024.pdf: File has not been decrypted
+2024-08-01 00:23:01,059:WARNING:Multiple definitions in dictionary at byte 0xbaec5 for key /DA
+2024-08-01 00:23:01,391:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:23:01,391:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000YIDN2312346895' under category: Payment
+2024-08-01 00:23:01,391:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:23:01,391:INFO:Matched keyword: 'FLIPKART' in description: 'FLIPKART INTERNET PRIV HTTPS://WWW.F' under category: Shopping
+2024-08-01 00:23:01,391:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:23:01,391:INFO:Matched keyword: 'SWIGGY' in description: 'RAZ*SWIGGY - DAILY HTTP://WWW.SW' under category: Food
+2024-08-01 00:23:02,483:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07062024 (2).pdf: File has not been decrypted
+2024-08-01 00:23:02,593:WARNING:Multiple definitions in dictionary at byte 0xc7200 for key /DA
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52026313631' under category: Payment
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'RELIANCE' in description: 'RAZ*RELIANCE RETAIL LI HTTPS://WWW.J' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'LULU VALUE MART' in description: 'LULU VALUE MART C5 BANGALORE' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'SHOP' in description: 'CASIO HYPER SHOPPEE BANGALORE' under category: Shopping
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:02,957:INFO:Matched keyword: 'MARKET' in description: 'CAPITAL MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:04,598:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07072024.pdf: File has not been decrypted
+2024-08-01 00:23:04,693:WARNING:Multiple definitions in dictionary at byte 0xb8b40 for key /DA
+2024-08-01 00:23:05,293:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:23:05,293:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014179BAEAAACWDZHR' under category: Payment
+2024-08-01 00:23:05,293:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE IN (Pay in EMIs)' under category: Grocery
+2024-08-01 00:23:05,293:INFO:Matched keyword: 'NAIVEDYA' in description: 'NAIVEDYA Ahmedabad' under category: Miscellaneous
+2024-08-01 00:23:05,301:INFO:Matched keyword: 'SWADESHI ENTERPRISES' in description: 'SWADESHI ENTERPRISES BANGALORE' under category: Miscellaneous
+2024-08-01 00:23:05,302:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:05,302:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:05,303:INFO:Matched keyword: 'LKST931' in description: 'LKST931 BANGALORE' under category: Medical
+2024-08-01 00:23:05,303:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:23:05,303:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:23:05,303:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:05,303:INFO:Matched keyword: 'RETAIL' in description: 'Innovative Retail Conc Bangalore' under category: Shopping
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'TATA 1MG HEALTHCARE' in description: 'TATA 1MG HEALTHCARE SO Delhi' under category: Medical
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'PICTURE PEOPLE' in description: 'PICTURE PEOPLE BANGALORE' under category: Miscellaneous
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'GURUMURTHY S' in description: 'GURUMURTHY S BANGALORE' under category: Miscellaneous
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR CYBS SI MUMBAI' under category: Entertainment
+2024-08-01 00:23:05,308:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:06,813:WARNING:Multiple definitions in dictionary at byte 0xb8ce3 for key /DA
+2024-08-01 00:23:07,557:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:07,557:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014005BACAAACJAGGF' under category: Payment
+2024-08-01 00:23:07,557:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:23:07,557:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:07,557:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:07,557:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:23:09,246:WARNING:Multiple definitions in dictionary at byte 0xb9252 for key /DA
+2024-08-01 00:23:09,494:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:09,494:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:09,494:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014035BACAAACLFDCG' under category: Payment
+2024-08-01 00:23:09,494:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:09,494:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:09,494:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:11,209:WARNING:Multiple definitions in dictionary at byte 0xb22fb for key /DA
+2024-08-01 00:23:11,523:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:11,523:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014067BADAAACNY19U' under category: Payment
+2024-08-01 00:23:11,523:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:13,889:WARNING:Multiple definitions in dictionary at byte 0xb13cf for key /DA
+2024-08-01 00:23:14,204:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014096BADAAACP39WU' under category: Payment
+2024-08-01 00:23:14,204:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:23:14,204:INFO:Matched keyword: 'FILLING' in description: 'PRAMUKH FILLING STATIO AGRA' under category: Fuel
+2024-08-01 00:23:14,204:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCE MUMBAI IN (Pay in EMIs)' under category: Insurance
+2024-08-01 00:23:16,354:WARNING:Multiple definitions in dictionary at byte 0xb4880 for key /DA
+2024-08-01 00:23:16,666:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014125BADAAACR9OKO' under category: Payment
+2024-08-01 00:23:16,666:INFO:Matched keyword: 'FILLING' in description: 'A S FILLING STATION DHOLPUR' under category: Fuel
+2024-08-01 00:23:20,665:WARNING:Multiple definitions in dictionary at byte 0xc6cd1 for key /DA
+2024-08-01 00:23:22,118:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:22,119:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:22,119:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014154BADAAACUFSXF' under category: Payment
+2024-08-01 00:23:22,119:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:22,119:INFO:Matched keyword: 'DEEP AUTOMOBILES' in description: 'DEEP AUTOMOBILES AGRA' under category: Fuel
+2024-08-01 00:23:22,119:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:23:22,119:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:23,427:WARNING:Multiple definitions in dictionary at byte 0xbb2f5 for key /DA
+2024-08-01 00:23:23,954:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:23,954:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52119826524' under category: Payment
+2024-08-01 00:23:23,954:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:23,954:INFO:Matched keyword: 'DENTREE' in description: 'Dentree Comprehensive BANGALORE IN (Pay in EMIs)' under category: Medical
+2024-08-01 00:23:25,048:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:23:25,064:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:23:25,067:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGAEP02B290204167867)' under category: Payment
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT JUN 2024' under category: Cashback
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL66GURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:25,410:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SANDEEP GOPINATHBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:23:26,452:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:23:26,452:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'AMAZON' in description: 'IND*AMAZONHTTP://WWW.AMIN MOTO' under category: Shopping
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKARTWWW.FLIPKART.IN MOTO' under category: Shopping
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'UTILITIES' in description: 'WWW PHONEPE COMGURGAONIN UTILITIES' under category: Utility Bill
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'NEFT PAYMENT RECEIVED' under category: Payment
+2024-08-01 00:23:26,861:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGACP0FBFA0070086662)' under category: Payment
+2024-08-01 00:23:27,224:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:23:27,224:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:23:27,240:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCBANGALOREIND DEPT STORES' under category: Shopping
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SRILAKSHMI AUTOMOBILESBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'IMPS PAYMENT' in description: 'IMPS PAYMENT#415221844161' under category: Payment
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'CASHBACK' in description: 'ADDITIONAL CASHBACK FOR APR'24' under category: Cashback
+2024-08-01 00:23:28,170:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:28,580:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:23:28,580:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:23:28,595:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:23:29,019:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:23:29,019:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:23:29,019:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP016300589324212)' under category: Payment
+2024-08-01 00:23:29,019:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT APR 2024' under category: Cashback
+2024-08-01 00:23:29,572:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:23:29,572:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:23:29,585:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:23:29,884:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:23:29,884:INFO:Matched keyword: 'JOINING FEE' in description: 'JOINING FEE' under category: Fees
+2024-08-01 00:23:29,884:INFO:Matched keyword: 'GST' in description: 'GST' under category: Tax
+2024-08-01 00:23:29,884:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'RAZ*ZOMATO HYPERPUREHTTPS://HYPERIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:23:29,884:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:23:29,884:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:30,468:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:23:30,473:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:23:34,657:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07042024.pdf: File has not been decrypted
+2024-08-01 00:23:34,751:WARNING:Multiple definitions in dictionary at byte 0xb1bc9 for key /DA
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'TAX' in description: 'ANNUAL FEE CHARGED (EXCL TAX 179.82)' under category: Tax
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'NEW HORIZON' in description: 'NEW HORIZON INTERNATIO BANGALORE' under category: Education
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'Myntra Designs Pvt Ltd BANGALORE' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'NOBROKER' in description: 'NOBROKER TECHNOLOGI BENGALURU IN (Pay in EMIs)' under category: Home Furnishing
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR MUMBAI' under category: Entertainment
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:35,067:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:23:36,482:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07052024.pdf: File has not been decrypted
+2024-08-01 00:23:36,607:WARNING:Multiple definitions in dictionary at byte 0xbaec5 for key /DA
+2024-08-01 00:23:36,858:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:23:36,858:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000YIDN2312346895' under category: Payment
+2024-08-01 00:23:36,858:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:23:36,858:INFO:Matched keyword: 'FLIPKART' in description: 'FLIPKART INTERNET PRIV HTTPS://WWW.F' under category: Shopping
+2024-08-01 00:23:36,858:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:23:36,858:INFO:Matched keyword: 'SWIGGY' in description: 'RAZ*SWIGGY - DAILY HTTP://WWW.SW' under category: Food
+2024-08-01 00:23:38,309:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07062024 (2).pdf: File has not been decrypted
+2024-08-01 00:23:38,403:WARNING:Multiple definitions in dictionary at byte 0xc7200 for key /DA
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52026313631' under category: Payment
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'RELIANCE' in description: 'RAZ*RELIANCE RETAIL LI HTTPS://WWW.J' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'LULU VALUE MART' in description: 'LULU VALUE MART C5 BANGALORE' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'SHOP' in description: 'CASIO HYPER SHOPPEE BANGALORE' under category: Shopping
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:38,686:INFO:Matched keyword: 'MARKET' in description: 'CAPITAL MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:39,804:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07072024.pdf: File has not been decrypted
+2024-08-01 00:23:39,899:WARNING:Multiple definitions in dictionary at byte 0xb8b40 for key /DA
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014179BAEAAACWDZHR' under category: Payment
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE IN (Pay in EMIs)' under category: Grocery
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'NAIVEDYA' in description: 'NAIVEDYA Ahmedabad' under category: Miscellaneous
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'SWADESHI ENTERPRISES' in description: 'SWADESHI ENTERPRISES BANGALORE' under category: Miscellaneous
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'LKST931' in description: 'LKST931 BANGALORE' under category: Medical
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'RETAIL' in description: 'Innovative Retail Conc Bangalore' under category: Shopping
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'TATA 1MG HEALTHCARE' in description: 'TATA 1MG HEALTHCARE SO Delhi' under category: Medical
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'PICTURE PEOPLE' in description: 'PICTURE PEOPLE BANGALORE' under category: Miscellaneous
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'GURUMURTHY S' in description: 'GURUMURTHY S BANGALORE' under category: Miscellaneous
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR CYBS SI MUMBAI' under category: Entertainment
+2024-08-01 00:23:40,322:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:23:41,622:WARNING:Multiple definitions in dictionary at byte 0xb8ce3 for key /DA
+2024-08-01 00:23:42,250:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:42,250:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014005BACAAACJAGGF' under category: Payment
+2024-08-01 00:23:42,250:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:23:42,250:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:42,250:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:42,250:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:23:43,834:WARNING:Multiple definitions in dictionary at byte 0xb9252 for key /DA
+2024-08-01 00:23:44,117:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:44,117:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:44,117:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014035BACAAACLFDCG' under category: Payment
+2024-08-01 00:23:44,117:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:23:44,117:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:44,117:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:45,538:WARNING:Multiple definitions in dictionary at byte 0xb22fb for key /DA
+2024-08-01 00:23:45,915:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:45,915:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014067BADAAACNY19U' under category: Payment
+2024-08-01 00:23:45,915:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:47,079:WARNING:Multiple definitions in dictionary at byte 0xb13cf for key /DA
+2024-08-01 00:23:48,713:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014096BADAAACP39WU' under category: Payment
+2024-08-01 00:23:48,714:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:23:48,714:INFO:Matched keyword: 'FILLING' in description: 'PRAMUKH FILLING STATIO AGRA' under category: Fuel
+2024-08-01 00:23:48,714:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCE MUMBAI IN (Pay in EMIs)' under category: Insurance
+2024-08-01 00:23:50,312:WARNING:Multiple definitions in dictionary at byte 0xb4880 for key /DA
+2024-08-01 00:23:50,830:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014125BADAAACR9OKO' under category: Payment
+2024-08-01 00:23:50,830:INFO:Matched keyword: 'FILLING' in description: 'A S FILLING STATION DHOLPUR' under category: Fuel
+2024-08-01 00:23:51,983:WARNING:Multiple definitions in dictionary at byte 0xc6cd1 for key /DA
+2024-08-01 00:23:52,532:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:52,533:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:52,533:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014154BADAAACUFSXF' under category: Payment
+2024-08-01 00:23:52,533:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:52,533:INFO:Matched keyword: 'DEEP AUTOMOBILES' in description: 'DEEP AUTOMOBILES AGRA' under category: Fuel
+2024-08-01 00:23:52,533:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:23:52,533:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:53,761:WARNING:Multiple definitions in dictionary at byte 0xbb2f5 for key /DA
+2024-08-01 00:23:54,141:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:23:54,141:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52119826524' under category: Payment
+2024-08-01 00:23:54,141:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:23:54,141:INFO:Matched keyword: 'DENTREE' in description: 'Dentree Comprehensive BANGALORE IN (Pay in EMIs)' under category: Medical
+2024-08-01 00:23:55,654:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:23:55,654:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:23:55,669:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGAEP02B290204167867)' under category: Payment
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT JUN 2024' under category: Cashback
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL66GURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:55,983:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SANDEEP GOPINATHBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:23:56,361:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:23:56,361:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'AMAZON' in description: 'IND*AMAZONHTTP://WWW.AMIN MOTO' under category: Shopping
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKARTWWW.FLIPKART.IN MOTO' under category: Shopping
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'UTILITIES' in description: 'WWW PHONEPE COMGURGAONIN UTILITIES' under category: Utility Bill
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'NEFT PAYMENT RECEIVED' under category: Payment
+2024-08-01 00:23:57,084:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGACP0FBFA0070086662)' under category: Payment
+2024-08-01 00:23:57,446:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:23:57,446:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:23:57,461:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCBANGALOREIND DEPT STORES' under category: Shopping
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SRILAKSHMI AUTOMOBILESBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'IMPS PAYMENT' in description: 'IMPS PAYMENT#415221844161' under category: Payment
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'CASHBACK' in description: 'ADDITIONAL CASHBACK FOR APR'24' under category: Cashback
+2024-08-01 00:23:58,280:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:23:58,649:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:23:58,649:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:23:58,649:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:23:59,042:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:23:59,042:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:23:59,042:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP016300589324212)' under category: Payment
+2024-08-01 00:23:59,042:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT APR 2024' under category: Cashback
+2024-08-01 00:23:59,626:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:23:59,641:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:23:59,641:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:23:59,971:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:23:59,971:INFO:Matched keyword: 'JOINING FEE' in description: 'JOINING FEE' under category: Fees
+2024-08-01 00:23:59,971:INFO:Matched keyword: 'GST' in description: 'GST' under category: Tax
+2024-08-01 00:23:59,971:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'RAZ*ZOMATO HYPERPUREHTTPS://HYPERIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:23:59,971:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:23:59,971:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:24:00,270:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:24:00,270:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:24:00,815:INFO:Matched keyword: 'INSURANCE' in description: 'COVERFOX INSURANCE BROKINMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:24:01,420:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (6).pdf: File has not been decrypted
+2024-08-01 00:24:01,436:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (6).pdf: File has not been decrypted
+2024-08-01 00:24:01,735:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP049530546836438)' under category: Payment
+2024-08-01 00:24:02,033:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (7).pdf: File has not been decrypted
+2024-08-01 00:24:02,049:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (7).pdf: File has not been decrypted
+2024-08-01 00:24:02,821:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:02,821:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:02,821:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:02,821:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:24:02,821:INFO:Matched keyword: 'UTILITIES' in description: 'PZGASCYLINDERMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:24:02,821:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP0686D0305101308)' under category: Payment
+2024-08-01 00:24:03,160:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (8).pdf: File has not been decrypted
+2024-08-01 00:24:03,175:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (8).pdf: File has not been decrypted
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'RESTAURANT' in description: 'PEAK HOSPITALITYBENGALURUIN RESTAURANTS' under category: Food
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'INSURANCE' in description: 'MAX BUPA HEALTH INSURANCENEW DELHIIN INSURANCE' under category: Insurance
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'UTILITIES' in description: 'PZRECHARGE NON BBPSMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'MARKET' in description: 'CAPITAL MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'DEPT STORES' in description: 'BUNDL TECHNOLOGIES PVT LTBENGALURUIN DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'MEDICAL' in description: 'SOLANKI MEDICAL AND GENERBANGALOREIND MEDICAL' under category: Medical
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'MEDICAL' in description: 'OVUM HOSPITALSBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCEPBANGALOREIN DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'DEPT STORES' in description: 'AMBER MEGASTOREBENGALURUIN DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'DEPT STORES' in description: 'AMAZON PAY INDIA PRIVATEWWW.AMAZON.ININ DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCEMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCEMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'DEPT STORES' in description: 'AMAZON PAY INDIA PRIVATEWWW.AMAZON.ININ DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'MEDICAL' in description: 'OVUM HOSPITALSBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'HOME FURNISHING' in description: 'NOBROKER TECHNOLOGIBENGALURUIN HOME FURNISHING' under category: Home Furnishing
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCEPBANGALOREIN DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'ZOMATO' in description: 'ZOMATO PRIVATE LIMITEDGURGAONIN DEPT STORES' under category: Food
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'SWIGGYWWW.SWIGGY.ININ FOOD PRODUCTS' under category: Food
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP13B440076956393)' under category: Payment
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,171:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,233:INFO:Matched keyword: 'RESTAURANT' in description: 'CHAMPARAN JUNCTIONBANGALOREIN RESTAURANTS' under category: Food
+2024-08-01 00:24:04,233:INFO:Matched keyword: 'RESTAURANT' in description: 'HARDCASTLEBANGALOREIN RESTAURANTS' under category: Food
+2024-08-01 00:24:04,233:INFO:Matched keyword: 'RESTAURANT' in description: 'SANGAM SWEETS KOTHNURBANGALOREIN RESTAURANTS' under category: Food
+2024-08-01 00:24:04,233:INFO:Matched keyword: 'MEDICAL' in description: 'APOLLO PHARMACYBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:24:04,233:INFO:Matched keyword: 'MEDICAL' in description: 'OVUM HOSPITALSBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:24:04,520:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (9).pdf: File has not been decrypted
+2024-08-01 00:24:04,520:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (9).pdf: File has not been decrypted
+2024-08-01 00:24:04,848:INFO:Matched keyword: 'DEPT STORES' in description: 'BIG BASKETPUNEIN DEPT STORES' under category: Shopping
+2024-08-01 00:24:04,848:INFO:Matched keyword: 'UTILITIES' in description: 'PZGASCYLINDERMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:24:04,848:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,848:INFO:Matched keyword: 'TRANSPORT' in description: 'INDIAN RAILWAY CATERINNEW DELHIIN TRANSPORT' under category: Travel
+2024-08-01 00:24:04,848:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:04,848:INFO:Matched keyword: 'FLIPKART' in description: 'FLIPKART INTERNET PVT LTDBANGALOREIN CLOTH STORES' under category: Shopping
+2024-08-01 00:24:05,936:INFO:Data has been exported to C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\transaction_summary.xlsx
+2024-08-01 00:24:37,096:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07042024.pdf: File has not been decrypted
+2024-08-01 00:24:37,212:WARNING:Multiple definitions in dictionary at byte 0xb1bc9 for key /DA
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'TAX' in description: 'ANNUAL FEE CHARGED (EXCL TAX 179.82)' under category: Tax
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'NEW HORIZON' in description: 'NEW HORIZON INTERNATIO BANGALORE' under category: Education
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'Myntra Designs Pvt Ltd BANGALORE' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'NOBROKER' in description: 'NOBROKER TECHNOLOGI BENGALURU IN (Pay in EMIs)' under category: Home Furnishing
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR MUMBAI' under category: Entertainment
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:37,504:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:24:38,572:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07052024.pdf: File has not been decrypted
+2024-08-01 00:24:38,729:WARNING:Multiple definitions in dictionary at byte 0xbaec5 for key /DA
+2024-08-01 00:24:38,982:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:24:38,982:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000YIDN2312346895' under category: Payment
+2024-08-01 00:24:38,982:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:24:38,982:INFO:Matched keyword: 'FLIPKART' in description: 'FLIPKART INTERNET PRIV HTTPS://WWW.F' under category: Shopping
+2024-08-01 00:24:38,982:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:24:38,982:INFO:Matched keyword: 'SWIGGY' in description: 'RAZ*SWIGGY - DAILY HTTP://WWW.SW' under category: Food
+2024-08-01 00:24:40,212:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07062024 (2).pdf: File has not been decrypted
+2024-08-01 00:24:40,308:WARNING:Multiple definitions in dictionary at byte 0xc7200 for key /DA
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52026313631' under category: Payment
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'RELIANCE' in description: 'RAZ*RELIANCE RETAIL LI HTTPS://WWW.J' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'LULU VALUE MART' in description: 'LULU VALUE MART C5 BANGALORE' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'SHOP' in description: 'CASIO HYPER SHOPPEE BANGALORE' under category: Shopping
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:40,638:INFO:Matched keyword: 'MARKET' in description: 'CAPITAL MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:41,691:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07072024.pdf: File has not been decrypted
+2024-08-01 00:24:41,801:WARNING:Multiple definitions in dictionary at byte 0xb8b40 for key /DA
+2024-08-01 00:24:42,177:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014179BAEAAACWDZHR' under category: Payment
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE IN (Pay in EMIs)' under category: Grocery
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'NAIVEDYA' in description: 'NAIVEDYA Ahmedabad' under category: Miscellaneous
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'SWADESHI ENTERPRISES' in description: 'SWADESHI ENTERPRISES BANGALORE' under category: Miscellaneous
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'LKST931' in description: 'LKST931 BANGALORE' under category: Medical
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'RETAIL' in description: 'Innovative Retail Conc Bangalore' under category: Shopping
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'TATA 1MG HEALTHCARE' in description: 'TATA 1MG HEALTHCARE SO Delhi' under category: Medical
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'PICTURE PEOPLE' in description: 'PICTURE PEOPLE BANGALORE' under category: Miscellaneous
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'GURUMURTHY S' in description: 'GURUMURTHY S BANGALORE' under category: Miscellaneous
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR CYBS SI MUMBAI' under category: Entertainment
+2024-08-01 00:24:42,187:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:24:43,422:WARNING:Multiple definitions in dictionary at byte 0xb8ce3 for key /DA
+2024-08-01 00:24:43,767:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:43,767:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014005BACAAACJAGGF' under category: Payment
+2024-08-01 00:24:43,767:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:24:43,767:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:43,767:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:43,767:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:24:45,324:WARNING:Multiple definitions in dictionary at byte 0xb9252 for key /DA
+2024-08-01 00:24:46,064:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:46,064:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:46,064:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014035BACAAACLFDCG' under category: Payment
+2024-08-01 00:24:46,064:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:24:46,064:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:24:46,064:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:24:47,427:WARNING:Multiple definitions in dictionary at byte 0xb22fb for key /DA
+2024-08-01 00:24:47,710:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:47,710:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014067BADAAACNY19U' under category: Payment
+2024-08-01 00:24:47,710:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:24:48,667:WARNING:Multiple definitions in dictionary at byte 0xb13cf for key /DA
+2024-08-01 00:24:48,968:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014096BADAAACP39WU' under category: Payment
+2024-08-01 00:24:48,968:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:24:48,968:INFO:Matched keyword: 'FILLING' in description: 'PRAMUKH FILLING STATIO AGRA' under category: Fuel
+2024-08-01 00:24:48,968:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCE MUMBAI IN (Pay in EMIs)' under category: Insurance
+2024-08-01 00:24:51,830:WARNING:Multiple definitions in dictionary at byte 0xb4880 for key /DA
+2024-08-01 00:24:52,222:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014125BADAAACR9OKO' under category: Payment
+2024-08-01 00:24:52,222:INFO:Matched keyword: 'FILLING' in description: 'A S FILLING STATION DHOLPUR' under category: Fuel
+2024-08-01 00:24:53,292:WARNING:Multiple definitions in dictionary at byte 0xc6cd1 for key /DA
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014154BADAAACUFSXF' under category: Payment
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'DEEP AUTOMOBILES' in description: 'DEEP AUTOMOBILES AGRA' under category: Fuel
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:24:53,733:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:24:55,367:WARNING:Multiple definitions in dictionary at byte 0xbb2f5 for key /DA
+2024-08-01 00:24:55,704:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:24:55,704:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52119826524' under category: Payment
+2024-08-01 00:24:55,704:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:24:55,704:INFO:Matched keyword: 'DENTREE' in description: 'Dentree Comprehensive BANGALORE IN (Pay in EMIs)' under category: Medical
+2024-08-01 00:24:58,123:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:24:58,138:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:24:58,138:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGAEP02B290204167867)' under category: Payment
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT JUN 2024' under category: Cashback
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL66GURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:24:58,517:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SANDEEP GOPINATHBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:24:59,509:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:24:59,509:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:24:59,869:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:24:59,869:INFO:Matched keyword: 'AMAZON' in description: 'IND*AMAZONHTTP://WWW.AMIN MOTO' under category: Shopping
+2024-08-01 00:24:59,869:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKARTWWW.FLIPKART.IN MOTO' under category: Shopping
+2024-08-01 00:24:59,869:INFO:Matched keyword: 'UTILITIES' in description: 'WWW PHONEPE COMGURGAONIN UTILITIES' under category: Utility Bill
+2024-08-01 00:24:59,869:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:24:59,869:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:24:59,885:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:24:59,885:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:24:59,885:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:24:59,885:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'NEFT PAYMENT RECEIVED' under category: Payment
+2024-08-01 00:24:59,885:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGACP0FBFA0070086662)' under category: Payment
+2024-08-01 00:25:00,267:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:25:00,267:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:25:00,283:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCBANGALOREIND DEPT STORES' under category: Shopping
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SRILAKSHMI AUTOMOBILESBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'IMPS PAYMENT' in description: 'IMPS PAYMENT#415221844161' under category: Payment
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'CASHBACK' in description: 'ADDITIONAL CASHBACK FOR APR'24' under category: Cashback
+2024-08-01 00:25:01,388:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:01,717:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:25:01,717:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:25:01,717:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:25:01,984:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:25:01,984:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:25:01,984:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP016300589324212)' under category: Payment
+2024-08-01 00:25:01,984:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT APR 2024' under category: Cashback
+2024-08-01 00:25:02,931:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:25:02,931:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:25:02,931:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:25:03,214:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:25:03,214:INFO:Matched keyword: 'JOINING FEE' in description: 'JOINING FEE' under category: Fees
+2024-08-01 00:25:03,214:INFO:Matched keyword: 'GST' in description: 'GST' under category: Tax
+2024-08-01 00:25:03,214:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'RAZ*ZOMATO HYPERPUREHTTPS://HYPERIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:03,214:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:25:03,214:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:04,047:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:25:04,047:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:25:04,347:INFO:Matched keyword: 'INSURANCE' in description: 'COVERFOX INSURANCE BROKINMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:25:04,676:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (6).pdf: File has not been decrypted
+2024-08-01 00:25:04,692:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (6).pdf: File has not been decrypted
+2024-08-01 00:25:08,062:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07042024.pdf: File has not been decrypted
+2024-08-01 00:25:08,172:WARNING:Multiple definitions in dictionary at byte 0xb1bc9 for key /DA
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'TAX' in description: 'ANNUAL FEE CHARGED (EXCL TAX 179.82)' under category: Tax
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE Bangalore' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'NEW HORIZON' in description: 'NEW HORIZON INTERNATIO BANGALORE' under category: Education
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'Myntra Designs Pvt Ltd BANGALORE' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'MYNTRA' in description: 'MYNTRA DESIGNS PRIVATE WWW.MYNTRA.CO' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'NOBROKER' in description: 'NOBROKER TECHNOLOGI BENGALURU IN (Pay in EMIs)' under category: Home Furnishing
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKART WWW.FLIPKART.' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR MUMBAI' under category: Entertainment
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:08,521:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:25:10,483:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07052024.pdf: File has not been decrypted
+2024-08-01 00:25:10,593:WARNING:Multiple definitions in dictionary at byte 0xbaec5 for key /DA
+2024-08-01 00:25:10,860:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:25:10,860:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000YIDN2312346895' under category: Payment
+2024-08-01 00:25:10,875:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:25:10,875:INFO:Matched keyword: 'FLIPKART' in description: 'FLIPKART INTERNET PRIV HTTPS://WWW.F' under category: Shopping
+2024-08-01 00:25:10,875:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:25:10,875:INFO:Matched keyword: 'SWIGGY' in description: 'RAZ*SWIGGY - DAILY HTTP://WWW.SW' under category: Food
+2024-08-01 00:25:12,277:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07062024 (2).pdf: File has not been decrypted
+2024-08-01 00:25:12,371:WARNING:Multiple definitions in dictionary at byte 0xc7200 for key /DA
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52026313631' under category: Payment
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'RELIANCE' in description: 'RAZ*RELIANCE RETAIL LI HTTPS://WWW.J' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet Priv Bangalore' under category: Shopping
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'LULU VALUE MART' in description: 'LULU VALUE MART C5 BANGALORE' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'ONIP' in description: 'ONIP LIFESTYLE PVT LTD BANGALORE IN (Pay in EMIs)' under category: Education
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'SHOP' in description: 'CASIO HYPER SHOPPEE BANGALORE' under category: Shopping
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:12,701:INFO:Matched keyword: 'MARKET' in description: 'CAPITAL MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:14,211:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\8796523479959116_07072024.pdf: File has not been decrypted
+2024-08-01 00:25:14,337:WARNING:Multiple definitions in dictionary at byte 0xb8b40 for key /DA
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'CASHBACK' in description: 'CARD CASHBACK CREDIT' under category: Cashback
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014179BAEAAACWDZHR' under category: Payment
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE IN (Pay in EMIs)' under category: Grocery
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'NAIVEDYA' in description: 'NAIVEDYA Ahmedabad' under category: Miscellaneous
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'SWADESHI ENTERPRISES' in description: 'SWADESHI ENTERPRISES BANGALORE' under category: Miscellaneous
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'LKST931' in description: 'LKST931 BANGALORE' under category: Medical
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'FLIPKART' in description: 'Flipkart Internet PVT Bangalore' under category: Shopping
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'RELIANCE' in description: 'Reliance Retail Ltd BANGALORE' under category: Grocery
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'RETAIL' in description: 'Innovative Retail Conc Bangalore' under category: Shopping
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'TATA 1MG HEALTHCARE' in description: 'TATA 1MG HEALTHCARE SO Delhi' under category: Medical
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'PICTURE PEOPLE' in description: 'PICTURE PEOPLE BANGALORE' under category: Miscellaneous
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'GURUMURTHY S' in description: 'GURUMURTHY S BANGALORE' under category: Miscellaneous
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'HOTSTAR' in description: 'HOTSTAR CYBS SI MUMBAI' under category: Entertainment
+2024-08-01 00:25:14,997:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKET BANGALORE' under category: Grocery
+2024-08-01 00:25:17,439:WARNING:Multiple definitions in dictionary at byte 0xb8ce3 for key /DA
+2024-08-01 00:25:17,786:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:17,787:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014005BACAAACJAGGF' under category: Payment
+2024-08-01 00:25:17,787:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:25:17,787:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:17,787:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:17,787:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN IN (Pay in EMIs)' under category: Shopping
+2024-08-01 00:25:19,520:WARNING:Multiple definitions in dictionary at byte 0xb9252 for key /DA
+2024-08-01 00:25:19,886:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:19,886:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:19,886:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014035BACAAACLFDCG' under category: Payment
+2024-08-01 00:25:19,886:INFO:Matched keyword: 'AMAZON' in description: 'AMAZON PAY INDIA PRIVA WWW.AMAZON.IN' under category: Shopping
+2024-08-01 00:25:19,886:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:25:19,886:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:25:21,488:WARNING:Multiple definitions in dictionary at byte 0xb22fb for key /DA
+2024-08-01 00:25:21,820:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:21,820:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014067BADAAACNY19U' under category: Payment
+2024-08-01 00:25:21,820:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:25:23,616:WARNING:Multiple definitions in dictionary at byte 0xb13cf for key /DA
+2024-08-01 00:25:23,915:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014096BADAAACP39WU' under category: Payment
+2024-08-01 00:25:23,915:INFO:Matched keyword: 'RECHARGE' in description: 'PZRECHARGE NON BBPS MUMBAI' under category: Utility Bill
+2024-08-01 00:25:23,915:INFO:Matched keyword: 'FILLING' in description: 'PRAMUKH FILLING STATIO AGRA' under category: Fuel
+2024-08-01 00:25:23,915:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCE MUMBAI IN (Pay in EMIs)' under category: Insurance
+2024-08-01 00:25:25,331:WARNING:Multiple definitions in dictionary at byte 0xb4880 for key /DA
+2024-08-01 00:25:25,667:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014125BADAAACR9OKO' under category: Payment
+2024-08-01 00:25:25,667:INFO:Matched keyword: 'FILLING' in description: 'A S FILLING STATION DHOLPUR' under category: Fuel
+2024-08-01 00:25:27,491:WARNING:Multiple definitions in dictionary at byte 0xc6cd1 for key /DA
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000HD014154BADAAACUFSXF' under category: Payment
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'DEEP AUTOMOBILES' in description: 'DEEP AUTOMOBILES AGRA' under category: Fuel
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'FUEL' in description: 'SREE RAMESHWARA FUEL S BANGALORE' under category: Fuel
+2024-08-01 00:25:27,915:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:25:29,880:WARNING:Multiple definitions in dictionary at byte 0xbb2f5 for key /DA
+2024-08-01 00:25:30,210:INFO:Matched keyword: 'TAX' in description: 'FUEL SURCHARGE WAIVER EXCL TAX' under category: Tax
+2024-08-01 00:25:30,210:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'PAYMENT RECEIVED 000000000ZIC52119826524' under category: Payment
+2024-08-01 00:25:30,210:INFO:Matched keyword: 'PATEL' in description: 'PATEL SERVICE STATION Bangalore' under category: Fuel
+2024-08-01 00:25:30,210:INFO:Matched keyword: 'DENTREE' in description: 'Dentree Comprehensive BANGALORE IN (Pay in EMIs)' under category: Medical
+2024-08-01 00:25:31,553:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:25:31,556:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:25:31,556:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\airtel_july.pdf: File has not been decrypted
+2024-08-01 00:25:31,828:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:31,828:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:31,828:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGAEP02B290204167867)' under category: Payment
+2024-08-01 00:25:31,828:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT JUN 2024' under category: Cashback
+2024-08-01 00:25:31,828:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:31,828:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL66GURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:31,841:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SANDEEP GOPINATHBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:25:32,187:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:25:32,187:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (10).pdf: File has not been decrypted
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'AMAZON' in description: 'IND*AMAZONHTTP://WWW.AMIN MOTO' under category: Shopping
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'FLIPKART' in description: 'ING*FLIPKARTWWW.FLIPKART.IN MOTO' under category: Shopping
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'UTILITIES' in description: 'WWW PHONEPE COMGURGAONIN UTILITIES' under category: Utility Bill
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'PAYZAPP' in description: 'PAYZAPPMUMBAIIN Others' under category: Miscellaneous
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'UTILITIES' in description: 'PZELECTRICITYMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'PAYMENT RECEIVED' in description: 'NEFT PAYMENT RECEIVED' under category: Payment
+2024-08-01 00:25:32,491:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGACP0FBFA0070086662)' under category: Payment
+2024-08-01 00:25:32,925:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:25:32,941:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:25:32,941:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (2).pdf: File has not been decrypted
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCBANGALOREIND DEPT STORES' under category: Shopping
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'AUTO SERVICES' in description: 'SRILAKSHMI AUTOMOBILESBANGALOREIND AUTO SERVICES' under category: Travel
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'ZOMATO LTDWWW.ZOMATO.COIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'IMPS PAYMENT' in description: 'IMPS PAYMENT#415221844161' under category: Payment
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'CASHBACK' in description: 'ADDITIONAL CASHBACK FOR APR'24' under category: Cashback
+2024-08-01 00:25:33,604:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:35,411:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:25:35,427:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:25:35,459:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (3).pdf: File has not been decrypted
+2024-08-01 00:25:35,945:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:25:35,945:INFO:Matched keyword: 'EDUCATION' in description: 'NEW HORIZON INTERNATIOBANGALOREIND EDUCATION' under category: Education
+2024-08-01 00:25:35,945:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP016300589324212)' under category: Payment
+2024-08-01 00:25:35,945:INFO:Matched keyword: 'CASHBACK' in description: 'CASHBACK CREDIT APR 2024' under category: Cashback
+2024-08-01 00:25:36,416:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:25:36,416:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:25:36,438:WARNING:Password 'PAWA2708' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (4).pdf: File has not been decrypted
+2024-08-01 00:25:37,147:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:25:37,148:INFO:Matched keyword: 'JOINING FEE' in description: 'JOINING FEE' under category: Fees
+2024-08-01 00:25:37,151:INFO:Matched keyword: 'GST' in description: 'GST' under category: Tax
+2024-08-01 00:25:37,151:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'RAZ*ZOMATO HYPERPUREHTTPS://HYPERIND FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:37,151:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIND DEPT STORES' under category: Grocery
+2024-08-01 00:25:37,151:INFO:Matched keyword: 'UTILITIES' in description: 'AIRTEL PAYMENTS BANK LGURGAONIND UTILITIES' under category: Utility Bill
+2024-08-01 00:25:37,583:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:25:37,583:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (5).pdf: File has not been decrypted
+2024-08-01 00:25:37,943:INFO:Matched keyword: 'INSURANCE' in description: 'COVERFOX INSURANCE BROKINMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:25:38,415:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (6).pdf: File has not been decrypted
+2024-08-01 00:25:38,415:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (6).pdf: File has not been decrypted
+2024-08-01 00:25:39,092:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP049530546836438)' under category: Payment
+2024-08-01 00:25:39,547:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (7).pdf: File has not been decrypted
+2024-08-01 00:25:39,547:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (7).pdf: File has not been decrypted
+2024-08-01 00:25:40,004:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:40,004:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:40,004:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:40,004:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:25:40,004:INFO:Matched keyword: 'UTILITIES' in description: 'PZGASCYLINDERMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:25:40,004:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP0686D0305101308)' under category: Payment
+2024-08-01 00:25:40,318:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (8).pdf: File has not been decrypted
+2024-08-01 00:25:40,318:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (8).pdf: File has not been decrypted
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'RESTAURANT' in description: 'PEAK HOSPITALITYBENGALURUIN RESTAURANTS' under category: Food
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'INSURANCE' in description: 'MAX BUPA HEALTH INSURANCENEW DELHIIN INSURANCE' under category: Insurance
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'UTILITIES' in description: 'PZRECHARGE NON BBPSMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'MARKET' in description: 'CAPITAL MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'DEPT STORES' in description: 'BUNDL TECHNOLOGIES PVT LTBENGALURUIN DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'MISCELLANEOUS' in description: 'PZBROADBANDMUMBAIIN MISCELLANEOUS' under category: Miscellaneous
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'MEDICAL' in description: 'SOLANKI MEDICAL AND GENERBANGALOREIND MEDICAL' under category: Medical
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'MEDICAL' in description: 'OVUM HOSPITALSBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCEPBANGALOREIN DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'DEPT STORES' in description: 'AMBER MEGASTOREBENGALURUIN DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'DEPT STORES' in description: 'AMAZON PAY INDIA PRIVATEWWW.AMAZON.ININ DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCEMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'INSURANCE' in description: 'PZINSURANCEMUMBAIIN INSURANCE' under category: Insurance
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'DEPT STORES' in description: 'AMAZON PAY INDIA PRIVATEWWW.AMAZON.ININ DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'MEDICAL' in description: 'OVUM HOSPITALSBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'HOME FURNISHING' in description: 'NOBROKER TECHNOLOGIBENGALURUIN HOME FURNISHING' under category: Home Furnishing
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'DEPT STORES' in description: 'INNOVATIVE RETAIL CONCEPBANGALOREIN DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'ZOMATO' in description: 'ZOMATO PRIVATE LIMITEDGURGAONIN DEPT STORES' under category: Food
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'FOOD PRODUCTS' in description: 'SWIGGYWWW.SWIGGY.ININ FOOD PRODUCTS' under category: Food
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'ONLINE PAYMENT' in description: 'ONLINE PAYMENT(HGADP13B440076956393)' under category: Payment
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'RELIANCE' in description: 'RELIANCE RETAIL LTDBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,258:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,321:INFO:Matched keyword: 'RESTAURANT' in description: 'CHAMPARAN JUNCTIONBANGALOREIN RESTAURANTS' under category: Food
+2024-08-01 00:25:41,321:INFO:Matched keyword: 'RESTAURANT' in description: 'HARDCASTLEBANGALOREIN RESTAURANTS' under category: Food
+2024-08-01 00:25:41,321:INFO:Matched keyword: 'RESTAURANT' in description: 'SANGAM SWEETS KOTHNURBANGALOREIN RESTAURANTS' under category: Food
+2024-08-01 00:25:41,321:INFO:Matched keyword: 'MEDICAL' in description: 'APOLLO PHARMACYBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:25:41,321:INFO:Matched keyword: 'MEDICAL' in description: 'OVUM HOSPITALSBANGALOREIN MEDICAL' under category: Medical
+2024-08-01 00:25:41,652:WARNING:Password '270819870503' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (9).pdf: File has not been decrypted
+2024-08-01 00:25:41,652:WARNING:Password '270819877014' failed for C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\Credit Card Statement (9).pdf: File has not been decrypted
+2024-08-01 00:25:41,982:INFO:Matched keyword: 'DEPT STORES' in description: 'BIG BASKETPUNEIN DEPT STORES' under category: Shopping
+2024-08-01 00:25:41,982:INFO:Matched keyword: 'UTILITIES' in description: 'PZGASCYLINDERMUMBAIIN UTILITIES' under category: Utility Bill
+2024-08-01 00:25:41,982:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,982:INFO:Matched keyword: 'TRANSPORT' in description: 'INDIAN RAILWAY CATERINNEW DELHIIN TRANSPORT' under category: Travel
+2024-08-01 00:25:41,982:INFO:Matched keyword: 'THE BIG MARKET' in description: 'THE BIG MARKETBANGALOREIN DEPT STORES' under category: Grocery
+2024-08-01 00:25:41,982:INFO:Matched keyword: 'FLIPKART' in description: 'FLIPKART INTERNET PVT LTDBANGALOREIN CLOTH STORES' under category: Shopping
+2024-08-01 00:25:43,168:INFO:Data has been exported to C:\Users\aspsh\OneDrive\Desktop\cc\axis\both\transaction_summary.xlsx

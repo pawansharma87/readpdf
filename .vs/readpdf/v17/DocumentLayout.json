@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aspsh\\source\\repos\\readpdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546F4395-A0B8-4D5D-8D02-B710F9E21AE9}|readpdf\\readpdf.pyproj|C:\\Users\\aspsh\\source\\repos\\readpdf\\readpdf\\readpdf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{546F4395-A0B8-4D5D-8D02-B710F9E21AE9}|readpdf\\readpdf.pyproj|solutionrelative:readpdf\\readpdf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readpdf.py",
+              "DocumentMoniker": "C:\\Users\\aspsh\\source\\repos\\readpdf\\readpdf\\readpdf.py",
+              "RelativeDocumentMoniker": "readpdf\\readpdf.py",
+              "ToolTip": "C:\\Users\\aspsh\\source\\repos\\readpdf\\readpdf\\readpdf.py",
+              "RelativeToolTip": "readpdf\\readpdf.py",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-31T07:12:05.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
